@@ -27,6 +27,4 @@ function isPrime(n) {
     return true;
 }
 
-console.log(f(1000))
-
 module.exports = f

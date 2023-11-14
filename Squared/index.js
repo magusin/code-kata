@@ -8,7 +8,7 @@ function comp(array1, array2) {
             }
         }
     }
-    if (count === array1.length) {
+    if (count === array2.length) {
         return true;
     } else {
         return false;
